@@ -16,11 +16,7 @@
 </div>
   
   ##
-  
- <div>
-   <iframe src="https://discord.com/widget?id=905054724452147241&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-  </div>
- 
+   
 <div> 
   <a href="https://www.youtube.com/francildoalves" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/francildoalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
