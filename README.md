@@ -13,7 +13,6 @@
   <img align="center" alt="icon-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="icon-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
   <img align="center" alt="icon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
   <img align="center" alt="icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
   <img align="right" alt="fran" height="150" style="border-radius:50px;" src="https://scontent.ffor13-1.fna.fbcdn.net/v/t1.18169-9/553131_467340479961201_1132924666_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=JlCU-6ZBZh8AX9RVdcj&_nc_ht=scontent.ffor13-1.fna&oh=05c79a73b744911860dcf1822d217020&oe=61A70293">
