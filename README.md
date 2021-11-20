@@ -1,6 +1,6 @@
 # RESUMO
-## Blz povo? 
-## Sou FranCILDO Alves, apaixonado por Tecnologia!
+Sou FranCILDO Alves, apaixonado por Tecnologia!
+Estudante de Ciência de Dados e Desenvolvimento de Software
 
 <div align="center">
   <a href="https://github.com/francildoalves">
