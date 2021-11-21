@@ -1,7 +1,7 @@
 # RESUMO
-Sou FranCILDO Alves, apaixonado por Tecnologia!
-<br />
-Estudante de Ciência de Dados e Desenvolvimento de Software
+
+<font color='blue'>Meu nome é <b>FranCILDO Alves</b>, apaixonado por Tecnologia!</font> <br>
+<font color='blue'>Sou Analista de TI, estudo de Ciência de Dados e Desenvolvimento de Software</font>
 
 <div align="center">
   <a href="https://github.com/francildoalves">
