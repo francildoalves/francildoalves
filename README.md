@@ -20,7 +20,7 @@
   <img align="center" alt="icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
    <!-- Imagem do Facebook -->
-  <img align="right" alt="fran" height="150" style="border-radius:50px;" src="https://scontent.ffor13-1.fna.fbcdn.net/v/t1.18169-9/553131_467340479961201_1132924666_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=JlCU-6ZBZh8AX9RVdcj&_nc_ht=scontent.ffor13-1.fna&oh=05c79a73b744911860dcf1822d217020&oe=61A70293">
+  <img align="right" alt="fran" height="150" style="border-radius:50px;" src="https://scontent.ffor13-1.fna.fbcdn.net/v/t1.18169-9/553131_467340479961201_1132924666_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=TJ3FlOgJA5YAX9fujKT&_nc_ht=scontent.ffor13-1.fna&oh=00_AT-3IsARp0WM9qDT3sBE61pCu6W5UMxY3kV8tm4-rAVwvA&oe=61E64A93">
 </div>  
   
   ##
