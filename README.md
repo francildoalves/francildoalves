@@ -34,7 +34,6 @@
 </div>
 
   <!-- ![Snake animation](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
-   ![Snake animation](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg)
   
 
 
