@@ -1,7 +1,7 @@
 # RESUMO
 
 <font color='blue'>Meu nome é <b>FranCILDO Alves</b>, apaixonado por Tecnologia!</font> <br>
-<font color='black'>Sou Analista de TI, estudante de automação, Ciência de Dados e Dev de Software</font>
+<font color='black'>Sou Analista de TI, estudante de automação, Ciência de Dados e Desenvolvimento de Software</font>
 
 <div align="center">
   <a href="https://github.com/francildoalves">
