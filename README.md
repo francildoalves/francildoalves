@@ -1,7 +1,7 @@
 # FranCILDO Alves
 ## Sobre mim
 Meu nome é FranCILDO Alves, apaixonado por Tecnologia!
-Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, automação, Ciência de Dados e Desenvolvimento de Software.
+Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, automação. Estudo n8n, análise de dados.
 
 ## Tecnologias
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
