@@ -38,7 +38,12 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/francildo)
 
-
+<!-- Cobrinha -->
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- ![Snake animation](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ![snake gif](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
