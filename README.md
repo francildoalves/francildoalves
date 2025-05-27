@@ -1,38 +1,51 @@
-# RESUMO
+# FranCILDO Alves
+## Sobre mim
+Meu nome é FranCILDO Alves, apaixonado por Tecnologia!
+Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, automação, Ciência de Dados e Desenvolvimento de Software.
 
-<font color='blue'>Meu nome é <b>FranCILDO Alves</b>, apaixonado por Tecnologia!</font> <br>
-<font color='black'>Sou Analista de TI, estudante de automação, Ciência de Dados e Desenvolvimento de Software</font>
+## Tecnologias
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
+![JAVA](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![Typescript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=E44C30)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes)
+![NGINX](https://img.shields.io/badge/nginx-000?style=for-the-badge&logo=nginx)
+![redis](https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis)
+![ChatGPT](https://img.shields.io/badge/chatGPT-000?style=for-the-badge&logo=openai)
+![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
 
-<div align="center">
-  <a href="https://github.com/francildoalves">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=francildoalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francildoalves&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-![FranCILDO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francildoalves&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github&theme=github_dark)
+## 📊 Estatísticas no GitHub
+![FranCILDO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francildoalves&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francildoalves&locale=pt-br&layout=compact&langs_count=7&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=francildoalves&theme=bear&background=000&border=#4747d1&dates=FFF)](https://github.com/1rods)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="icon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="icon-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="icon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="icon-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="icon-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">  
-  <img align="center" alt="icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  
-  
-</div>  
-  
-  ##
-  ##
+## Áreas de Interesse
+- 🐧 Sistemas Linux
+- 📊 Análise de Dados 
+- 🤖 Automação e RPA
+- 🔐 Segurança da Informação
 
-   
-<div> 
-  <a href="https://www.youtube.com/francildoalves" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/francildoalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/francildoalves" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/Kp9RfPzUDp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/francildoalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Meus Principais Desafios de Projeto DIO
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/francildoalves)
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/francildo)
+
+
 
 <!-- ![Snake animation](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
-![snake gif](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- Cobrinha -->
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake.svg">
+</picture>
