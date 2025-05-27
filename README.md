@@ -9,6 +9,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francildoalves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+![Akuro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0rfreitas&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github&theme=github_dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
