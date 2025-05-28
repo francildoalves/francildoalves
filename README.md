@@ -18,6 +18,7 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 ![redis](https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-000?style=for-the-badge&logo=openai)
 ![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
+![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=b8b)
 
 ## 📊 Estatísticas no GitHub
 ![FranCILDO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francildoalves&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github&theme=dracula)
