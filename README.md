@@ -3,7 +3,7 @@
 Meu nome é FranCILDO Alves, apaixonado por Tecnologia!
 Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, automação. Estudo n8n, análise de dados.
 
-## Tecnologias
+## Tecnologias que estudo
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
 ![JAVA](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
