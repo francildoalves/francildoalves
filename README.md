@@ -29,7 +29,7 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 ## 📊 Sequência do GitHub
 [![GitHub Streak](https://streak-stats.demolab.com/?user=francildoalves&theme=bear&background=000&border=#4747d1&dates=FFF)](https://github.com/1rods)
 
-## Áreas de Interesse
+## 🤓 Áreas de Interesse
 - 🐧 Sistemas Linux
 - 📊 Análise de Dados 
 - 🤖 Automação e RPA
