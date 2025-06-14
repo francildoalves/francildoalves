@@ -38,13 +38,10 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 ## Formações na DIO
 - [x] 🐧 [Formação Linux Fundamentals](https://www.dio.me/curso-linux)
 - [ ] 🐙 [Formação GitHub Certification](https://www.dio.me/curso-github-certification) (em andamento)
-- [ ] ⚙️ [DevOps](https://www.dio.me/curso-devops)
-- [ ] 🐳 [Docker](https://www.dio.me/curso-docker)
-- [ ] ☸️ [Kubernetes](https://www.dio.me/curso-kubernetes)
+- [ ] ⚙️ [DevOps Fundamentals](https://www.dio.me/curso-devops)
+- [ ] 🐳 [Docker Fundamentals](https://www.dio.me/curso-docker)
+- [ ] ☸️ [Kubernetes Fundamentals](https://www.dio.me/curso-kubernetes)
 - [ ] 🚀 [CI/CD com GitLab](https://www.dio.me/curso-git-github-ci-cd)
-
-## Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/francildoalves)
