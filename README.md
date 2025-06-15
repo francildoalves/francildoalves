@@ -38,10 +38,10 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 ## Formações na DIO
 - [x] 🐧 [Formação Linux Fundamentals](https://www.dio.me/curso-linux)
 - [ ] 🐙 [Formação GitHub Certification](https://www.dio.me/curso-github-certification) (em andamento)
-- [ ] ⚙️ [DevOps Fundamentals](https://www.dio.me/curso-devops)
-- [ ] 🐳 [Docker Fundamentals](https://www.dio.me/curso-docker)
-- [ ] ☸️ [Kubernetes Fundamentals](https://www.dio.me/curso-kubernetes)
-- [ ] 🚀 [CI/CD com GitLab](https://www.dio.me/curso-git-github-ci-cd)
+- [ ] ⚙️ [Formação DevOps Fundamentals](https://www.dio.me/curso-devops)
+- [ ] 🐳 [Formação Docker Fundamentals](https://www.dio.me/curso-docker)
+- [ ] ☸️ [Formação Kubernetes Fundamentals](https://www.dio.me/curso-kubernetes)
+- [ ] 🚀 [Formação CI/CD com GitLab](https://www.dio.me/curso-git-github-ci-cd)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/francildoalves)
