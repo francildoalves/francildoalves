@@ -27,7 +27,7 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francildoalves&locale=pt-br&layout=compact&langs_count=7&theme=dracula)
 
 ## 📊 Sequência do GitHub
-[![GitHub Streak](https://streak-stats.demolab.com/?user=francildoalves&theme=bear&background=000&border=#4747d1&dates=FFF)](https://github.com/1rods)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=francildoalves&locale=pt-br&theme=bear&background=000&border=#4747d1&dates=FFF)](https://github.com/1rods)
 
 ## 🤓 Áreas de Interesse
 - 🐧 Sistemas Linux
