@@ -1,4 +1,7 @@
 # FranCILDO Alves
+
+---
+
 ## Sobre mim
 Meu nome é FranCILDO Alves, apaixonado por Tecnologia!
 Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, automação. Estudo n8n, análise de dados.
@@ -20,6 +23,8 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 ![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
 ![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=b8b)
 
+---
+
 ## 📊 Estatísticas no GitHub
 ![FranCILDO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francildoalves&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github&theme=dracula)
 
@@ -29,11 +34,15 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 ## 📊 Sequência do GitHub
 [![GitHub Streak](https://streak-stats.demolab.com/?user=francildoalves&locale=pt-br&theme=hacker&background=000&border=black&dates=)](https://git.io/streak-stats)
 
+---
+
 ## 🤓 Áreas de Interesse
 - 🐧 Sistemas Linux
 - 📊 Análise de Dados 
 - 🤖 Automação e RPA
 - 🔐 Segurança da Informação
+
+---
 
 ## Formações na DIO
 - [x] 🐧 [Formação Linux Fundamentals](https://www.dio.me/curso-linux)
@@ -42,6 +51,15 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 - [ ] 🐳 [Formação Docker Fundamentals](https://www.dio.me/curso-docker)
 - [ ] ☸️ [Formação Kubernetes Fundamentals](https://www.dio.me/curso-kubernetes)
 - [ ] 🚀 [Formação CI/CD com GitLab](https://www.dio.me/curso-git-github-ci-cd)
+
+
+
+| Status | Badge | Formação |
+|--------|-------|----------|
+| Done | <img src="https://assets.dio.me/DRa5oaKRL0k78O4qLwoC4TmxmC87iNHzyGteYzdp9HI/f:webp/h:120/q:80/L3RyYWNrcy9kMzNlZTljMy04YTM0LTQ5MTMtOGJmYS1kMjFiZGMyMTA5YjAucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Linux Fundamentals"> | [Formação Linux Fundamentals](https://www.dio.me/curso-linux) |
+| In Progress | <img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Linux Fundamentals"> | [Formação GitHub Certification](https://www.dio.me/curso-github-certification) |
+
+---
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/francildoalves)
