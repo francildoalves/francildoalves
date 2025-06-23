@@ -23,7 +23,6 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 ![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
 ![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=b8b)
 
----
 
 ## 📊 Estatísticas no GitHub
 ![FranCILDO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francildoalves&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github&theme=dracula)
@@ -34,7 +33,6 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 ## 📊 Sequência do GitHub
 [![GitHub Streak](https://streak-stats.demolab.com/?user=francildoalves&locale=pt-br&theme=hacker&background=000&border=black&dates=)](https://git.io/streak-stats)
 
----
 
 ## 🤓 Áreas de Interesse
 - 🐧 Sistemas Linux
@@ -42,24 +40,18 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 - 🤖 Automação e RPA
 - 🔐 Segurança da Informação
 
----
 
 ## Formações na DIO
-- [x] 🐧 [Formação Linux Fundamentals](https://www.dio.me/curso-linux)
-- [ ] 🐙 [Formação GitHub Certification](https://www.dio.me/curso-github-certification) (em andamento)
-- [ ] ⚙️ [Formação DevOps Fundamentals](https://www.dio.me/curso-devops)
-- [ ] 🐳 [Formação Docker Fundamentals](https://www.dio.me/curso-docker)
-- [ ] ☸️ [Formação Kubernetes Fundamentals](https://www.dio.me/curso-kubernetes)
-- [ ] 🚀 [Formação CI/CD com GitLab](https://www.dio.me/curso-git-github-ci-cd)
 
-
-
-| Status | Badge | Formação |
+| Badge | Formação | Status |
 |--------|-------|----------|
-| Done | <img src="https://assets.dio.me/DRa5oaKRL0k78O4qLwoC4TmxmC87iNHzyGteYzdp9HI/f:webp/h:120/q:80/L3RyYWNrcy9kMzNlZTljMy04YTM0LTQ5MTMtOGJmYS1kMjFiZGMyMTA5YjAucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Linux Fundamentals"> | [Formação Linux Fundamentals](https://www.dio.me/curso-linux) |
-| In Progress | <img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Linux Fundamentals"> | [Formação GitHub Certification](https://www.dio.me/curso-github-certification) |
+| <img src="https://assets.dio.me/DRa5oaKRL0k78O4qLwoC4TmxmC87iNHzyGteYzdp9HI/f:webp/h:120/q:80/L3RyYWNrcy9kMzNlZTljMy04YTM0LTQ5MTMtOGJmYS1kMjFiZGMyMTA5YjAucG5n" min-width="40px" max-width="40px" width="45px" align="center" alt="Formação Linux Fundamentals"> | [Formação Linux Fundamentals](https://www.dio.me/curso-linux) | Done |
+| <img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação GitHub Certification"> | [Formação GitHub Certification](https://www.dio.me/curso-github-certification) | In Progress | 
+| <img src="https://assets.dio.me/t8oFact9Kv6UqljGHYs9lx-4p8xc-DrOfky1P0QnwWU/f:webp/h:120/q:80/L3RyYWNrcy8wMzg1MzIyMS1iNDQxLTQzM2UtOTU5Yi02OGNiMzBjNjdlODgucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação DevOps Fundamentals"> | [Formação DevOps Fundamentals](https://www.dio.me/curso-devops) | To Do |
+| <img src="https://assets.dio.me/9M43ZnTH_BSBaG0cesFl8qDFp5GyGvcUhg52nSpSosg/f:webp/h:120/q:80/L3RyYWNrcy80OGU5ZjAxOC1mN2M5LTRmMGYtYjUyNC1jZDkyMjM1Nzk2MjYucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Docker Fundamentals"> | [Formação Docker Fundamentals](https://www.dio.me/curso-docker) | To Do |
+| <img src="https://assets.dio.me/xQLFyGywZqNsHvVvvkvHI4bsPkItX2-VrKw3u9CscVU/f:webp/h:120/q:80/L3RyYWNrcy81ZDdlNDE5Ni1mNWQ2LTQ0NjMtOTRkYy1hYzIxNWZmNDRmNjEucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Kubernetes Fundamentals"> | [Formação Kubernetes Fundamentals](https://www.dio.me/curso-kubernetes) | To Do |
+| <img src="https://assets.dio.me/xpg727feOCFHSMAL25KWbqwBMk3omWspkWlx3TqMbJU/f:webp/h:120/q:80/L3RyYWNrcy9jZmVjZGRiOC04ODljLTQwM2YtOGVkYi01NzcxYjk3ZTk4MmYucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação CI/CD com GitLab"> | [Formação CI/CD com GitLab](https://www.dio.me/curso-git-github-ci-cd) | To Do |
 
----
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/francildoalves)
