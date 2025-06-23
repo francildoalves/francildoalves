@@ -51,6 +51,7 @@ Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, aut
 | <img src="https://assets.dio.me/9M43ZnTH_BSBaG0cesFl8qDFp5GyGvcUhg52nSpSosg/f:webp/h:120/q:80/L3RyYWNrcy80OGU5ZjAxOC1mN2M5LTRmMGYtYjUyNC1jZDkyMjM1Nzk2MjYucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Docker Fundamentals"> | [Formação Docker Fundamentals](https://www.dio.me/curso-docker) | To Do |
 | <img src="https://assets.dio.me/xQLFyGywZqNsHvVvvkvHI4bsPkItX2-VrKw3u9CscVU/f:webp/h:120/q:80/L3RyYWNrcy81ZDdlNDE5Ni1mNWQ2LTQ0NjMtOTRkYy1hYzIxNWZmNDRmNjEucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Kubernetes Fundamentals"> | [Formação Kubernetes Fundamentals](https://www.dio.me/curso-kubernetes) | To Do |
 | <img src="https://assets.dio.me/xpg727feOCFHSMAL25KWbqwBMk3omWspkWlx3TqMbJU/f:webp/h:120/q:80/L3RyYWNrcy9jZmVjZGRiOC04ODljLTQwM2YtOGVkYi01NzcxYjk3ZTk4MmYucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação CI/CD com GitLab"> | [Formação CI/CD com GitLab](https://www.dio.me/curso-git-github-ci-cd) | To Do |
+| <img src="https://assets.dio.me/MCPFG2_8Jtaa5UHe4OdLz_YI7gXvp8UzqXLmELjfCBI/f:webp/h:120/q:80/L3RyYWNrcy9lMDRhNTIxNi0yMmQzLTQ2N2QtYmFmNC0xMzU4ODIwYWVlOWUucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação CI/CD com GitLab"> | Formação Microsoft Azure AI Fundamentals (AI-900) | To Do |
 
 
 ## Conecte-se comigo
