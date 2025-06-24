@@ -6,7 +6,7 @@
 Meu nome é FranCILDO Alves, apaixonado por Tecnologia! Moro em Fortaleza/Ce, Brasil.
 Sou marido e pai. Meus hobbies são pedalar e correr (eventualmente).
 
-Atualmente estudo Linux, automação, Phython e Sustentabilidade 4.0.
+Atualmente estudo Linux, automação, Python e Sustentabilidade 4.0.
 Busco integrar minha experiência com os elementos de sustentabilidade para migrarmos para um mundo mais justo e em harmonia com o planeta.
 
 ## Tecnologias que estudo
