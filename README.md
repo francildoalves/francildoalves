@@ -3,8 +3,11 @@
 ---
 
 ## Sobre mim
-Meu nome é FranCILDO Alves, apaixonado por Tecnologia!
-Minha formação é em Análise de Desenvolvimento de Sistemas, curto Linux, automação. Estudo n8n, análise de dados.
+Meu nome é FranCILDO Alves, apaixonado por Tecnologia! Moro em Fortaleza/Ce, Brasil.
+Sou marido e pai. Meus hobbies são pedalar e correr (eventualmente).
+
+Atualmente estudo Linux, automação, Phython e Sustentabilidade 4.0.
+Busco integrar minha experiência com os elementos de sustentabilidade para migrarmos para um mundo mais justo e em harmonia com o planeta.
 
 ## Tecnologias que estudo
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
