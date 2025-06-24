@@ -44,7 +44,7 @@ Busco integrar minha experiência com os elementos de sustentabilidade para migr
 - 🔐 Segurança da Informação
 
 
-## Formações na DIO
+## Plano de Estudos
 
 | Badge | Formação | Certificado | Status |
 |--------|-------|----------|----------|
