@@ -28,7 +28,14 @@
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
-## Estudando
+
+## 🤓 Áreas de Interesse
+- 🤖 Automação e RPA
+- 🐧 Sistemas Linux
+- 📊 Análise de Dados 
+- 🔐 Segurança da Informação
+
+### 🎯 Tecnologias que me interesso
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
 ![JAVA](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
@@ -46,12 +53,7 @@
 <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/msdos/msdos-original.svg" />
 ![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
 ![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=b8b)
-
-## 🤓 Áreas de Interesse
-- 🤖 Automação e RPA
-- 🐧 Sistemas Linux
-- 📊 Análise de Dados 
-- 🔐 Segurança da Informação
+![Flet](https://img.shields.io/badge/Flet-000?style=for-the-badge&logo=flet)
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
