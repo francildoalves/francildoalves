@@ -4,12 +4,14 @@
 
 ## Sobre mim
 Meu nome é FranCILDO Alves, apaixonado por Tecnologia! Moro em Fortaleza/Ce, Brasil.
-Sou marido e pai. Meus hobbies são pedalar e correr (eventualmente).
+Sou marido e pai. Analista de Sistemas de formação. Meus hobbies são pedalar e correr (eventualmente).
 
-Atualmente estudo Linux, automação, Python e Sustentabilidade 4.0.
-Busco integrar minha experiência com os elementos de sustentabilidade para migrarmos para um mundo mais justo e em harmonia com o planeta.
+Atualmente ensino Linux para crianças, estudo automação, Python e [Sustentabilidade 4.0](https://www.beeosfera.com.br/sustentabilidade4-0).
+Busco integrar minha experiência em Tecnologia da Informação com os elementos de Sustentabilidade para migrarmos para um mundo mais justo e em harmonia com o planeta.
 
-## Tecnologias que estudo
+![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
+
+## My Stack
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
 ![JAVA](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
@@ -49,9 +51,9 @@ Busco integrar minha experiência com os elementos de sustentabilidade para migr
 
 
 ## 🤓 Áreas de Interesse
+- 🤖 Automação e RPA
 - 🐧 Sistemas Linux
 - 📊 Análise de Dados 
-- 🤖 Automação e RPA
 - 🔐 Segurança da Informação
 
 
@@ -86,9 +88,3 @@ Busco integrar minha experiência com os elementos de sustentabilidade para migr
 <!-- ![Snake animation](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ![snake gif](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
 
-<!-- Cobrinha -->
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake.svg">
-</picture>
