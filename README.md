@@ -23,8 +23,8 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é FranCILDO Alves e sou **Analista de T.I.** aqui em Fortaleza, Ceará, Brasil. Sou marido e pai e apaixonado por tecnologia. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo é integrar minha experiência em TI com os princípios da **[Sustentabilidade 4.0](https://www.beeosfera.com.br/sustentabilidade4-0)** e para contribuir para um mundo mais justo e em harmonia com o planeta.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas principais áreas de foco incluem **Automação**, **Linux**, **Python**, e **Sustentabilidade 4.0**.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sou uma pessoa educada e respeitosa. Nos meus momentos de lazer, gosto de pedalar e correr ocasionalmente.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Sou instrutor de Linux para crianças.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sou uma pessoa educada e respeitosa. Nos meus momentos de lazer, gosto de pedalar e correr (ocasionalmente).<br />
+ <!--  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Sou instrutor de Linux para crianças. -->
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
@@ -54,6 +54,7 @@
 ![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
 ![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=b8b)
 ![Flet](https://img.shields.io/badge/Flet-000?style=for-the-badge&logo=flet)
+![Shell Script](https://img.shields.io/badge/ShellScript-000?style=for-the-badge&logo=shell)
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
@@ -115,6 +116,8 @@
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
   <br>
   - README.md file inspired by <a href="https://github.com/felipeAguiarCode">@felipeAguiarCode</a>
+  <br>
+  - Icons file by <a href="https://devicon.dev">storyset - https://devicon.dev/</a>	
 </details>
 
 
