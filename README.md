@@ -80,6 +80,32 @@
 
 ---
 
+<table>
+	<thead>
+		<tr>
+			<th colspan="2" width="2000"> </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/francildoalves/linux-automation-python">
+      <img src="https://skillicons.dev/icons?i=linux,python" />
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Automação, Python e Shell Script</h3>
+			<p>Projetos e scripts focados em Linux, automação e Python.</p>
+			<a href="https://github.com/francildoalves/linux-automation-python">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-E94D5F?style=for-the-badge" alt="Ver Repositório">
+			</a>
+			</td>
+		</tr>
+		</tbody>
+</table>
+
+---
+
 <details align="left">
   <summary>Créditos</summary> 
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
