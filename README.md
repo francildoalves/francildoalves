@@ -26,6 +26,12 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sou uma pessoa educada e respeitosa. Nos meus momentos de lazer, gosto de pedalar e correr (ocasionalmente).<br />
  <!--  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Sou instrutor de Linux para crianças. -->
 
+## &nbsp;Minha Stack
+
+<img src="https://skillicons.dev/icons?i=linux,vscode,html,css,js,git,github&theme=dark" />
+
+#
+
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
 
@@ -64,7 +70,7 @@
 | Badge | Formação | Certificado | Status |
 |--------|-------|----------|----------|
 | <a href="https://www.dio.me/courses/green-software"><img src="https://hermes.dio.me/courses/badge/7c0ee9f1-41d4-4215-8eeb-a651c4d71bf8.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Green Software Development"></a> | Green Software Development | [Certificado](https://www.dio.me/certificate/0XTYG8WF/share) | Done |
-| <a href="https://www.dio.me/curso-linux"><img src="https://assets.dio.me/DRa5oaKRL0k78O4qLwoC4TmxmC87iNHzyGteYzdp9HI/f:webp/h:120/q:80/L3RyYWNrcy9kMzNlZTljMy04YTM0LTQ5MTMtOGJmYS1kMjFiZGMyMTA5YjAucG5n" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Linux Fundamentals"></a> | Formação Linux Fundamentals | [Certificado](https://www.dio.me/certificate/VIZEPQXG/share) | Done |
+| <a href="https://www.dio.me/curso-linux"><img src="https://hermes.dio.me/tracks/d33ee9c3-8a34-4913-8bfa-d21bdc2109b0.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Linux Fundamentals"></a> | Formação Linux Fundamentals | [Certificado](https://www.dio.me/certificate/VIZEPQXG/share) | Done |
 | <a href="https://www.dio.me/curso-github-certification"><img src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação GitHub Certification"></a> | Formação GitHub Certification | Certificado | In Progress |
 | <a href="https://www.dio.me/curso-devops"><img src="https://hermes.dio.me/tracks/03853221-b441-433e-959b-68cb30c67e88.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação DevOps Fundamentals"></a> | Formação DevOps Fundamentals | Certificado | To Do |
 | <a href="https://www.dio.me/curso-docker"><img src="https://hermes.dio.me/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Docker Fundamentals"></a> | Formação Docker Fundamentals | Certificado | To Do |
