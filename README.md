@@ -80,8 +80,11 @@
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/francildo)
 
----
+
+![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
+
 ## 📌 &nbsp;Pinned Repositories
+
 
 <table>
   <thead>
@@ -143,11 +146,11 @@
   <br>
    - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
   <br>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">Freepik - www.freepik.com</a>
   <br>
   - README.md file inspired by <a href="https://github.com/felipeAguiarCode">@felipeAguiarCode</a>
   <br>
-  - Icons file by <a href="https://simpleicons.org/">Simpleicons - https://simpleicons.org/</a>0
+  - Icons file by <a href="https://simpleicons.org/">Simpleicons - https://simpleicons.org/</a>
   <br>
   - Icons file by <a href="https://shields.io/">Shields - https://shields.io//</a>
   <br>
@@ -155,6 +158,8 @@
   <br>
   - Icons file by <a href="https://github.com/tandpfun/skill-icons">Skill Icons - https://github.com/tandpfun/skill-icons/</a>		
 </details>
+
+---
 
 
 <!-- Cobrinha -->
