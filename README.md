@@ -38,6 +38,8 @@
 ### 🎯 Tecnologias que me interesso
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
+![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
+![Shell Script](https://img.shields.io/badge/ShellScript-000?style=for-the-badge&logo=shell)
 ![JAVA](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=E94D5F)
@@ -52,9 +54,8 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-000?style=for-the-badge&logo=openai)
 <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/msdos/msdos-original.svg" />
 ![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
-![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=b8b)
-![Flet](https://img.shields.io/badge/Flet-000?style=for-the-badge&logo=flet)
-![Shell Script](https://img.shields.io/badge/ShellScript-000?style=for-the-badge&logo=shell)
+![Flet](https://img.shields.io/badge/flet-000?style=for-the-badge&logo=flet)
+
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
@@ -80,29 +81,58 @@
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/francildo)
 
 ---
+## 📌 &nbsp;Pinned Repositories
 
 <table>
-	<thead>
-		<tr>
-			<th colspan="2" width="2000"> </th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/francildoalves/linux-automation-python">
-      <img src="https://skillicons.dev/icons?i=linux,python" />
-      </a>
-      </td>
-			<td valign="top">
-			<h3>Automação, Python e Shell Script</h3>
-			<p>Projetos e scripts focados em Linux, automação e Python.</p>
-			<a href="https://github.com/francildoalves/linux-automation-python">
- 			 	<img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-E94D5F?style=for-the-badge" alt="Ver Repositório">
-			</a>
-			</td>
-		</tr>
-		</tbody>
+  <thead>
+    <tr>
+      <th colspan="2" width="2000">&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="80">
+        <br />
+        <a href="https://github.com/francildoalves/n8n-projects">
+          <img src="https://img.shields.io/badge/n8n-A6CE38?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n badge" />
+        </a>
+      </td>
+      <td valign="top">
+        <h3>Automação com n8n</h3>
+        <p>Projetos de automação focados em n8n.</p>
+        <a href="https://github.com/francildoalves/n8n-projects">
+          <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-E94D5F?style=for-the-badge" alt="Ver Repositório" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" width="2000">&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="80">
+        <br />
+        <a href="https://github.com/francildoalves/linux-automation-python">
+          <img src="https://skillicons.dev/icons?i=linux,python" />
+        </a>
+      </td>
+      <td valign="top">
+        <h3>Automação com Python</h3>
+        <p>Projetos de automação focados em Python.</p>
+        <a href="https://github.com/francildoalves/linux-automation-python">
+          <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-E94D5F?style=for-the-badge" alt="Ver Repositório" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
@@ -117,7 +147,13 @@
   <br>
   - README.md file inspired by <a href="https://github.com/felipeAguiarCode">@felipeAguiarCode</a>
   <br>
-  - Icons file by <a href="https://devicon.dev">storyset - https://devicon.dev/</a>	
+  - Icons file by <a href="https://simpleicons.org/">Simpleicons - https://simpleicons.org/</a>0
+  <br>
+  - Icons file by <a href="https://shields.io/">Shields - https://shields.io//</a>
+  <br>
+  - Icons file by <a href="https://devicon.dev">Devicon - https://devicon.dev/</a>	
+  <br>
+  - Icons file by <a href="https://github.com/tandpfun/skill-icons">Skill Icons - https://github.com/tandpfun/skill-icons/</a>		
 </details>
 
 
