@@ -28,7 +28,7 @@
 
 ## &nbsp;Minha Stack
 
-<img src="https://skillicons.dev/icons?i=linux,vscode,html,css,js,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,docker,vscode,html,css,js,git,github&theme=dark" />
 
 #
 
