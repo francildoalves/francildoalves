@@ -89,7 +89,7 @@
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
-## 📌 &nbsp;Pinned Repositories
+## 📌 &nbsp;Repositórios Pinados
 
 
 <table>
