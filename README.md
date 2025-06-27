@@ -178,3 +178,35 @@
 <!-- ![Snake animation](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ![snake gif](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
 
+
+<!-- 
+# 📂 
+# 🗂️
+# 💼
+# 📂
+# 📁 
+-->
+
+<!-- EXEMPLO DE ESTRUTURA DE PASTAS
+
+## 📁 Estrutura do Projeto
+
+```
+
+📦 projeto 
+├── 📁 public 
+│ └── 📁 assets 
+│ └── 📁 imgs 
+├── 📁 src │ 
+│ └── 📁 styles # Estilos CSS
+│ └── 📁 data # Arquivos de dados (ex: JSON, mocks) │ 
+├── 📁 scripts │ 
+│ ├── 📁 contants # Constantes globais 
+│ │ ├── 📁 getters # Funções para obter dados ou estados 
+│ │ ├── 📁 listeners # Manipuladores de eventos (event listeners) 
+│ │ └── 📁 render # Funções responsáveis por renderizar elementos na UI 
+
+```
+
+-->
+
