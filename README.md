@@ -7,6 +7,9 @@
   Anslista de Tecnologia da Informação • Automatizador
 </h3>
 
+<h3 align="center">
+  <!--Sou pago para resolver problemas utilizando Python... -->
+</h3>
 
 <div align="center">  
   
