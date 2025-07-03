@@ -1,11 +1,13 @@
+<!-- Texto animado -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Alves;Sou+Analista+de+TI;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
 
-
+<!-- Imagem principal -->
 <div align="center">
   <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
   <!-- <<img height="350em" src="./.github/assets/banner.png"/> -->
 </div>
 
+<!-- Breve descrição -->
 <h3 align="center">
   Anslista de Tecnologia da Informação • Automatizador
 </h3>
@@ -14,6 +16,7 @@
   <!--Sou pago para resolver problemas utilizando Python... -->
 </h3>
 
+<!-- Estatísticas do GitHub -->
 <div align="center">  
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=francildoalves&locale=pt-br&show_icons=true&count_private=true&&rank_icon=github&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
@@ -27,6 +30,7 @@
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
+<!-- Sobre -->
 <p><strong>Sobre mim</strong></p>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é FranCILDO Alves e sou **Analista de T.I.** aqui em Fortaleza, Ceará, Brasil. Sou marido e pai e apaixonado por tecnologia. <br />
@@ -35,21 +39,23 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sou uma pessoa educada e respeitosa. Nos meus momentos de lazer, gosto de pedalar e correr (ocasionalmente).<br />
  <!--  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Sou instrutor de Linux para crianças. -->
 
+<!-- Stak -->
 ## &nbsp;Minha Stack
-
+<!-- Badges da stak -->
 <img src="https://skillicons.dev/icons?i=linux,docker,vscode,html,css,js,git,github&theme=dark" />
 
 #
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
-
+<!-- Áreas de interesse -->
 ## 🤓 Áreas de Interesse
 - 🤖 Automação e RPA
 - 🐧 Sistemas Linux
 - 📊 Análise de Dados 
 - 🔐 Segurança da Informação
 
+<!-- Mini badges -->
 ### 🎯 Tecnologias que me interesso
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
@@ -90,6 +96,7 @@
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
+<!-- Contato -->
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/francildoalves)
 
