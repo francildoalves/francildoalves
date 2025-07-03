@@ -176,6 +176,16 @@
 
 ---
 
+<!-- Número de visitantes -->
+<div align="center">
+  <br>
+  <p align="center"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{francildoalves}/count.svg" /></p>
+  <br>
+</div>
+
+---
+
 
 <!-- Cobrinha -->
 <picture align="center">
