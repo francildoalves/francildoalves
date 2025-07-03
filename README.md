@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Alves;Eu+sou+Analista+de+TI;Bem-vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Alves;Sou+Analista+de+TI;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
 
 
 <div align="center">
@@ -55,7 +55,7 @@
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
 ![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
 ![Shell Script](https://img.shields.io/badge/ShellScript-000?style=for-the-badge&logo=shell)
-![JAVA](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=E94D5F)
 ![Javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -167,11 +167,15 @@
   <br>
   - Icons file by <a href="https://simpleicons.org/">Simpleicons - https://simpleicons.org/</a>
   <br>
-  - Icons file by <a href="https://shields.io/">Shields - https://shields.io//</a>
+  - Icons file by <a href="https://shields.io/">Shields - https://shields.io/</a>
   <br>
   - Icons file by <a href="https://devicon.dev">Devicon - https://devicon.dev/</a>	
   <br>
   - Icons file by <a href="https://github.com/tandpfun/skill-icons">Skill Icons - https://github.com/tandpfun/skill-icons/</a>		
+    <br>
+  - Icons file by <a href="https://github.com/Naereen/badges/">Naereen - https://github.com/Naereen/badges/</a>	
+    <br>
+  - Icons file by <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo - https://github.com/Ileriayo/markdown-badges/</a>	
 </details>
 
 ---
