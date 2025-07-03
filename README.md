@@ -37,7 +37,7 @@
   <!-- Linguagens mais Usadas -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francildoalves&locale=pt-br&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   <!-- Gráfico de Contribuições -->
-  <img width="100%" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=francildoalves&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0&point=0a855c&area=true&hide_border=true" alt="Ashutosh's github activity graph">
+  <img width="100%" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=francildoalves&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0&point=0a855c&area=true&hide_border=true&line=9d00ff" alt="Ashutosh's github activity graph">
 </div>
 
 
