@@ -16,13 +16,26 @@
   <!--Sou pago para resolver problemas utilizando Python... -->
 </h3>
 
+<!-- Contato -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/francildoalves/">
+    <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://www.dio.me/users/francildo">
+    <img src="https://img.shields.io/badge/-DIO-6633cc?style=flat-square&logo=Google-Chrome&logoColor=white">
+  </a>  
+  <a href="mailto:francildo@outlook.com">
+    <img src="https://img.shields.io/badge/-francildo@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
+
 <!-- Estatísticas do GitHub -->
 <div align="center">  
-  
+  <!-- Estatístivas -->
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=francildoalves&locale=pt-br&show_icons=true&count_private=true&&rank_icon=github&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
+  <!-- Linguagens mais Usadas -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francildoalves&locale=pt-br&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-
+  <!-- Gráfico de Contribuições -->
   <img width="100%" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=francildoalves&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0&point=0a855c&area=true&hide_border=true" alt="Ashutosh's github activity graph">
 
 </div>
@@ -96,14 +109,6 @@
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
-<!-- Contato -->
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/francildoalves)
-
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/francildo)
-
-
-![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
 ## 📌 &nbsp;Repositórios Pinados
 
