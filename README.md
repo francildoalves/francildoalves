@@ -25,8 +25,6 @@
 </div>
 
 
-&point=0a855c&area=true&hide_border=true
-
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
 <p><strong>Sobre mim</strong></p>
