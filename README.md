@@ -9,7 +9,7 @@
 
 <!-- Breve descrição -->
 <h3 align="center">
-  Anslista de Tecnologia da Informação • Automatizador
+  Analista de Tecnologia da Informação • Automatizador • Foco em Sustentabilidade
 </h3>
 
 <h3 align="center">
@@ -46,7 +46,7 @@
 <!-- Sobre -->
 <p><strong>Sobre mim</strong></p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é FranCILDO Alves e sou **Analista de T.I.** aqui em Fortaleza, Ceará, Brasil. Sou marido e pai e apaixonado por tecnologia. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é FranCILDO Alves e sou **Analista de T.I.** em Fortaleza, Ceará, Brasil. Sou marido, pai e apaixonado por tecnologia. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo é integrar minha experiência em TI com os princípios da **[Sustentabilidade 4.0](https://www.beeosfera.com.br/sustentabilidade4-0)** e contribuir para um mundo mais justo e em harmonia com o planeta.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas principais áreas de foco incluem **Automação**, **Linux**, **Python**, e **Sustentabilidade 4.0**.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sou uma pessoa educada e respeitosa. Nos meus momentos de lazer, gosto de pedalar e correr (ocasionalmente).<br />
@@ -70,6 +70,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" /> Segurança da Informação
 - 🌱 Sustentabilidade
 
+---
 
 <!-- Mini badges -->
 ### 🎯 Tecnologias que me interesso
@@ -109,11 +110,30 @@
 | <a href="https://www.dio.me/curso-certificacao-scrum-master"><img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Scrum Master Certification"></a> | Formação Scrum Master Certification | Certificado | To Do |
 | <a href="https://web.dio.me/track/formacao-microsoft-azure-ai-900-fundamentals"><img src="https://hermes.dio.me/tracks/e04a5216-22d3-467d-baf4-1358820aee9e.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Microsoft Azure AI Fundamentals (AI-900)"> | Formação Microsoft Azure AI Fundamentals (AI-900) | Certificado | To Do |
 
+#
+
+  <p><strong>Ficou interessado? Conecte-se comigo no LinkedIn!</strong></p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/francildoalves/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+</div>
+
+#
+
+<h3>Contact Me</h3>
+<div align="left">
+<p>
+<a href="mailto:francildo@outlook.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/francildoalves"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
+<a href="https://www.dio.me/users/francildo"><img src="https://img.shields.io/badge/-DIO-020114?style=for-the-badge&amp;logo=dio&amp;logoColor=6ED2B6&amp;color:FFF" alt="DIO"></a></p>  
+<!-- <a href="https://www.youtube.com/@francildoalves/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p> -->
+</div>
+
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
-
 ## 📌 &nbsp;Repositórios Pinados
-
 
 <table>
   <thead>
@@ -131,7 +151,7 @@
       </td>
       <td valign="top">
         <h3>Automação com n8n</h3>
-        <p>Projetos de automação focados em n8n.</p>
+        <p>Projetos de automação que **simplificam fluxos de trabalho** e **integram sistemas diversos** usando n8n.</p>
         <a href="https://github.com/francildoalves/n8n-projects">
           <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-E94D5F?style=for-the-badge" alt="Ver Repositório" />
         </a>
@@ -158,7 +178,7 @@
       </td>
       <td valign="top">
         <h3>Automação com Python</h3>
-        <p>Projetos de automação focados em Python.</p>
+        <p>Scripts e ferramentas em Python para **otimizar tarefas e processos** em ambientes Linux.</p>
         <a href="https://github.com/francildoalves/linux-automation-python">
           <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-E94D5F?style=for-the-badge" alt="Ver Repositório" />
         </a>
