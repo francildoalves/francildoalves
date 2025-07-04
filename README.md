@@ -63,10 +63,11 @@
 
 <!-- Áreas de interesse -->
 ## 🤓 Áreas de Interesse
-- 🤖 Automação e RPA
-- 🐧 Sistemas Linux
-- 📊 Análise de Dados 
-- 🔐 Segurança da Informação
+- <img src="https://github.com/user-attachments/assets/2aa2a018-b104-485b-9a98-4e80eb1f1b82" alt="Locked with Key" width="25" height="25" /> Automação e RPA
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" height="25" /> Sistemas Linux
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="25" height="25" /> Desenvolvimento de Software  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Bar Chart" width="25" height="25" /> Análise de Dados  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" /> Segurança da Informação
 
 <!-- Mini badges -->
 ### 🎯 Tecnologias que me interesso
@@ -86,7 +87,6 @@
 ![NGINX](https://img.shields.io/badge/nginx-000?style=for-the-badge&logo=nginx)
 ![redis](https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-000?style=for-the-badge&logo=openai)
-<img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/msdos/msdos-original.svg" />
 ![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
 ![Flet](https://img.shields.io/badge/flet-000?style=for-the-badge&logo=flet)
 
@@ -188,6 +188,8 @@
   - Icons file by <a href="https://github.com/Naereen/badges/">Naereen - https://github.com/Naereen/badges/</a>	
     <br>
   - Icons file by <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo - https://github.com/Ileriayo/markdown-badges/</a>	
+      <br>
+  - Emojis file by <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Tarikul-Islam-Anik - https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/</a>	
 </details>
 
 ---
