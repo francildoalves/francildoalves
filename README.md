@@ -70,6 +70,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" /> Segurança da Informação
 - 🌱 Sustentabilidade
 
+
 <!-- Mini badges -->
 ### 🎯 Tecnologias que me interesso
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
