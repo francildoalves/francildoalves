@@ -1,6 +1,15 @@
 <!-- Texto animado -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Alves;Sou+Analista+de+Tecnologia+da+Informação;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
 
+<p>
+<h2>
+	<img align="right" alt="Stars" src="https://img.shields.io/github/stars/francildoalves">
+	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/francildoalves?style=social">
+</h2>
+</p>
+
+---
+
 <!-- Imagem principal -->
 <div align="center">
   <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
