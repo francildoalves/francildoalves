@@ -26,17 +26,25 @@
 </h3>
 
 <!-- Contato -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/francildoalves/">
-    <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white">
+<div align="center">
+  <a href="https://www.linkedin.com/in/francildoalves/" target="_blank">
+    <img src="https://img.shields.io/badge/in/francildoalves-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf" alt="LinkedIn">
   </a>
-  <a href="https://www.dio.me/users/francildo">
-    <img src="https://img.shields.io/badge/-DIO-6633cc?style=flat-square&logo=Google-Chrome&logoColor=white">
+  <a href="https://www.instagram.com/francildoalves/" target="_blank">
+    <img src="https://img.shields.io/badge/@francildoalves-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf" alt="Instagram">
   </a>
-  <a href="mailto:francildo@outlook.com">
-    <img src="https://img.shields.io/badge/-francildo@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
+  <a href="https://www.youtube.com/@francildoalves" target="_blank">
+    <img src="https://img.shields.io/badge/@francildoalves-fff?style=flat&logo=youtube&logoColor=FFFFFF&labelColor=8b7bdf" alt="YouTube">
   </a>
-</p>
+  <a href="https://www.dio.me/users/francildo" target="_blank">
+    <img src="https://img.shields.io/badge/dio/francildo-fff?style=flat&logo=Google-Chrome&logoColor=FFFFFF&labelColor=8b7bdf" alt="DIO">
+  </a>
+ <!-- <a href="mailto:francildo@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/francildo@outlook.com-fff?style=flat&logo=Gmail&logoColor=FFFFFF&labelColor=8b7bdf" alt="E-Mail">
+  </a> -->
+</div>
+
+
 
 <!-- Estatísticas do GitHub -->
 <div align="center">  
