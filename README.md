@@ -60,7 +60,7 @@
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
 <!-- Sobre -->
-<p><strong>Sobre mim</strong></p>
+## `>_ Sobre Mim`
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é FranCILDO Alves e sou **Analista de Tecnologia da Informação** em Fortaleza, Ceará, Brasil. Sou marido, pai. Entusiasta de tecnologia e sustentabilidade. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo é integrar minha experiência em TI com os princípios da **[Sustentabilidade 4.0](https://www.beeosfera.com.br/sustentabilidade4-0)** e contribuir para um mundo mais justo e em harmonia com o planeta.<br />
