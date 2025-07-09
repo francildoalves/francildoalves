@@ -135,6 +135,7 @@
 | <a href="https://web.dio.me/track/formacao-microsoft-azure-ai-900-fundamentals"><img src="https://hermes.dio.me/tracks/e04a5216-22d3-467d-baf4-1358820aee9e.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Microsoft Azure AI Fundamentals (AI-900)"> | Formação Microsoft Azure AI Fundamentals (AI-900) | Certificado | To Do |
 
 #
+![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
 
 <h3>Contact Me</h3>
 <div align="left">
@@ -148,61 +149,6 @@
 <!-- <a href="https://www.youtube.com/@francildoalves/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p> -->
 </div>
 
-![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
-
-## 📌 &nbsp;Repositórios Pinados
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="2" width="2000">&nbsp;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="80">
-        <br />
-        <a href="https://github.com/francildoalves/n8n-projects">
-          <img src="https://img.shields.io/badge/n8n-A6CE38?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n badge" />
-        </a>
-      </td>
-      <td valign="top">
-        <h3>Automação com n8n</h3>
-        <p>Projetos de automação que **simplificam fluxos de trabalho** e **integram sistemas diversos** usando n8n.</p>
-        <a href="https://github.com/francildoalves/n8n-projects">
-          <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-E94D5F?style=for-the-badge" alt="Ver Repositório" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="2" width="2000">&nbsp;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="80">
-        <br />
-        <a href="https://github.com/francildoalves/linux-automation-python">
-          <img src="https://skillicons.dev/icons?i=linux,python" />
-        </a>
-      </td>
-      <td valign="top">
-        <h3>Automação com Python</h3>
-        <p>Scripts e ferramentas em Python para **otimizar tarefas e processos** em ambientes Linux.</p>
-        <a href="https://github.com/francildoalves/linux-automation-python">
-          <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-E94D5F?style=for-the-badge" alt="Ver Repositório" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
