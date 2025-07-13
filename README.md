@@ -177,15 +177,6 @@
   - Emojis file by <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Tarikul-Islam-Anik - https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/</a>	
 </details>
 
----
-
-<!-- Número de visitantes -->
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{francildoalves}/count.svg" /></p>
-  <br>
-</div>
 
 ---
 
