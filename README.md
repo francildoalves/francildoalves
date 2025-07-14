@@ -2,10 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Alves;Trabalho+como++Analista+de+Tecnologia+da+Informação;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
 
 <p>
-<h2>
-	<img align="right" alt="Stars" src="https://img.shields.io/github/stars/francildoalves">
-	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/francildoalves?style=social">
-</h2>
+	<h2>
+		<img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=francildoalves&color=green" /> 
+		<img align="right" alt="Stars" src="https://img.shields.io/github/stars/francildoalves" />
+		<img align="right" alt="Followers" src="https://img.shields.io/github/followers/francildoalves?style=social" />
+	</h2>
 </p>
 
 ---
