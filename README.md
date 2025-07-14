@@ -164,6 +164,8 @@
   <br>
   - README.md file inspired by <a href="https://github.com/felipeAguiarCode">@felipeAguiarCode</a>
   <br>
+  - Icons file profile views by <a href="https://github.com/antonkomarev/github-profile-views-counter">https://komarev.com/</a>	
+  <br>
   - Icons file by <a href="https://simpleicons.org/">Simpleicons - https://simpleicons.org/</a>
   <br>
   - Icons file by <a href="https://shields.io/">Shields - https://shields.io/</a>
