@@ -147,7 +147,7 @@
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
 </a>
 <a href="https://www.linkedin.com/in/francildoalves"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-<a href="https://www.dio.me/users/francildo"><img src="https://img.shields.io/badge/-DIO-020114?style=for-the-badge&amp;logo=dio&amp;logoColor=6ED2B6&amp;color:FFF" alt="DIO"></a></p>  
+<a href="https://www.dio.me/users/francildo"><img src="./assets/icons/favicon.ico" alt="DIO"></a></p>  
 <!-- <a href="https://www.youtube.com/@francildoalves/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p> -->
 </div>
 
