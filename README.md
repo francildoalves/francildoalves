@@ -1,14 +1,6 @@
 <!-- Texto animado -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Alves;Trabalho+como++Analista+de+Tecnologia+da+Informação;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
 
-<p>
-	<h2>
-		<img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=francildoalves&color=green" /> 
-		<img align="right" alt="Stars" src="https://img.shields.io/github/stars/francildoalves" />
-		<img align="right" alt="Followers" src="https://img.shields.io/github/followers/francildoalves?style=social" />
-	</h2>
-</p>
-
 ---
 
 <!-- Imagem principal -->
@@ -151,38 +143,31 @@
 <!-- <a href="https://www.youtube.com/@francildoalves/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p> -->
 </div>
 
-
 ---
 
 <details align="left">
-  <summary>Créditos</summary> 
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  <br>
-   - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
-  <br>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">Freepik - www.freepik.com</a>
-  <br>
-  - README.md file inspired by <a href="https://github.com/felipeAguiarCode">@felipeAguiarCode</a>
-  <br>
-  - Icons file profile views by <a href="https://github.com/antonkomarev/github-profile-views-counter">https://komarev.com/</a>	
-  <br>
-  - Icons file by <a href="https://simpleicons.org/">Simpleicons - https://simpleicons.org/</a>
-  <br>
-  - Icons file by <a href="https://shields.io/">Shields - https://shields.io/</a>
-  <br>
-  - Icons file by <a href="https://devicon.dev">Devicon - https://devicon.dev/</a>	
-  <br>
-  - Icons file by <a href="https://github.com/tandpfun/skill-icons">Skill Icons - https://github.com/tandpfun/skill-icons/</a>		
-    <br>
-  - Icons file by <a href="https://github.com/Naereen/badges/">Naereen - https://github.com/Naereen/badges/</a>	
-    <br>
-  - Icons file by <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo - https://github.com/Ileriayo/markdown-badges/</a>	
-      <br>
-  - Emojis file by <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Tarikul-Islam-Anik - https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/</a>	
+  <summary>🙌 Créditos</summary> 
+  - 📊 GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
+  - 🔥 GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a><br>
+  - 👨‍💻 Developer vector by <a href="https://www.freepik.com/vectors/developer">Freepik - www.freepik.com</a><br>
+  - 📝 README inspired by <a href="https://github.com/felipeAguiarCode">@felipeAguiarCode</a><br>
+  - 👁️‍🗨️ Profile views icon by <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com</a><br>
+  - 🧩 Icons by <a href="https://simpleicons.org/">Simpleicons</a><br>
+  - 🛡️ Shields by <a href="https://shields.io/">shields.io</a><br>
+  - 💠 Devicon by <a href="https://devicon.dev">devicon.dev</a><br>
+  - 🧠 Skill Icons by <a href="https://github.com/tandpfun/skill-icons">tandpfun</a><br>
+  - 🏅 Badges by <a href="https://github.com/Naereen/badges/">Naereen</a><br>
+  - 🧷 Markdown Badges by <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a><br>
+  - 😀 Emojis by <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Tarikul-Islam-Anik</a>
 </details>
 
-
 ---
+
+<div align="center">
+	<img alt="Profile views" src="https://komarev.com/ghpvc/?username=francildoalves&color=green" /> 
+	<img alt="Stars" src="https://img.shields.io/github/stars/francildoalves" />
+	<img alt="Followers" src="https://img.shields.io/github/followers/francildoalves?style=social" />
+</div>
 
 
 <!-- Cobrinha -->
