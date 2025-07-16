@@ -123,17 +123,21 @@
 
 ## 📖 Plano de Estudos
 
+<div align="center">
+
 | Badge | Formação | Certificado | Status |
-|--------|-------|----------|----------|
-| <a href="https://www.dio.me/courses/green-software"><img src="https://hermes.dio.me/courses/badge/7c0ee9f1-41d4-4215-8eeb-a651c4d71bf8.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Green Software Development"></a> | Green Software Development | [Certificado](https://www.dio.me/certificate/0XTYG8WF/share) | Done |
-| <a href="https://www.dio.me/curso-linux"><img src="https://hermes.dio.me/tracks/d33ee9c3-8a34-4913-8bfa-d21bdc2109b0.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Linux Fundamentals"></a> | Formação Linux Fundamentals | [Certificado](https://www.dio.me/certificate/VIZEPQXG/share) | Done |
-| <a href="https://www.dio.me/curso-github-certification"><img src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação GitHub Certification"></a> | Formação GitHub Certification | Certificado | In Progress |
-| <a href="https://www.dio.me/curso-devops"><img src="https://hermes.dio.me/tracks/03853221-b441-433e-959b-68cb30c67e88.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação DevOps Fundamentals"></a> | Formação DevOps Fundamentals | Certificado | To Do |
-| <a href="https://www.dio.me/curso-docker"><img src="https://hermes.dio.me/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Docker Fundamentals"></a> | Formação Docker Fundamentals | Certificado | To Do |
-| <a href="https://www.dio.me/curso-kubernetes"><img src="https://hermes.dio.me/tracks/5d7e4196-f5d6-4463-94dc-ac215ff44f61.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Kubernetes Fundamentals"></a> | Formação Kubernetes Fundamentals | Certificado | To Do |
-| <a href="https://www.dio.me/curso-git-github-ci-cd"><img src="https://hermes.dio.me/tracks/cfecddb8-889c-403f-8edb-5771b97e982f.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação CI/CD com GitLab"></a> | Formação CI/CD com GitLab | Certificado | To Do |
-| <a href="https://www.dio.me/curso-certificacao-scrum-master"><img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Scrum Master Certification"></a> | Formação Scrum Master Certification | Certificado | To Do |
-| <a href="https://web.dio.me/track/formacao-microsoft-azure-ai-900-fundamentals"><img src="https://hermes.dio.me/tracks/e04a5216-22d3-467d-baf4-1358820aee9e.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Formação Microsoft Azure AI Fundamentals (AI-900)"> | Formação Microsoft Azure AI Fundamentals (AI-900) | Certificado | To Do |
+| :---: | :------- | :--------: | :------: |
+| <a href="https://www.dio.me/courses/green-software"><img src="https://hermes.dio.me/courses/badge/7c0ee9f1-41d4-4215-8eeb-a651c4d71bf8.png" width="40px" height="40px" alt="Green Software Development"></a> | Green Software Development | [Certificado](https://www.dio.me/certificate/0XTYG8WF/share) | Done |
+| <a href="https://www.dio.me/curso-linux"><img src="https://hermes.dio.me/tracks/d33ee9c3-8a34-4913-8bfa-d21bdc2109b0.png" width="40px" height="40px" alt="Formação Linux Fundamentals"></a> | Formação Linux Fundamentals | [Certificado](https://www.dio.me/certificate/VIZEPQXG/share) | Done |
+| <a href="https://www.dio.me/curso-github-certification"><img src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png" width="40px" height="40px" alt="Formação GitHub Certification"></a> | Formação GitHub Certification | Certificado | In Progress |
+| <a href="https://www.dio.me/curso-devops"><img src="https://hermes.dio.me/tracks/03853221-b441-433e-959b-68cb30c67e88.png" width="40px" height="40px" alt="Formação DevOps Fundamentals"></a> | Formação DevOps Fundamentals | Certificado | To Do |
+| <a href="https://www.dio.me/curso-docker"><img src="https://hermes.dio.me/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" width="40px" height="40px" alt="Formação Docker Fundamentals"></a> | Formação Docker Fundamentals | Certificado | To Do |
+| <a href="https://www.dio.me/curso-kubernetes"><img src="https://hermes.dio.me/tracks/5d7e4196-f5d6-4463-94dc-ac215ff44f61.png" width="40px" height="40px" alt="Formação Kubernetes Fundamentals"></a> | Formação Kubernetes Fundamentals | Certificado | To Do |
+| <a href="https://www.dio.me/curso-git-github-ci-cd"><img src="https://hermes.dio.me/tracks/cfecddb8-889c-403f-8edb-5771b97e982f.png" width="40px" height="40px" alt="Formação CI/CD com GitLab"></a> | Formação CI/CD com GitLab | Certificado | To Do |
+| <a href="https://www.dio.me/curso-certificacao-scrum-master"><img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" width="40px" height="40px" alt="Formação Scrum Master Certification"></a> | Formação Scrum Master Certification | Certificado | To Do |
+| <a href="https://web.dio.me/track/formacao-microsoft-azure-ai-900-fundamentals"><img src="https://hermes.dio.me/tracks/e04a5216-22d3-467d-baf4-1358820aee9e.png" width="40px" height="40px" alt="Formação Microsoft Azure AI Fundamentals (AI-900)"></a> | Formação Microsoft Azure AI Fundamentals (AI-900) | Certificado | To Do |
+
+</div>
 
 
 
