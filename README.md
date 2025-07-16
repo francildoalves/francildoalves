@@ -112,10 +112,14 @@
 
 ## 🏅 Certificações
 
+<div align="center">
+
 | Badge | Vendor | Formação | Certificado |
-|--------|-------|----------|----------|
-| <a href="https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/"><img src="https://training.linuxfoundation.org/wp-content/uploads/2022/10/LFC131-Course-Badge-1-300x300.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Green Software Development"></a> | The Linux Fundation / Green Software Fundation | Green Software Development | [Certificado](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/72040d23-7fee-4dc0-8113-584d3be85e66-francildo-soares-alves-19a2b882-dbd5-4ff0-b009-680d458d2b62-certificate.pdf) |
-| <a href="https://www.linkedin.com/learning/paths/fundamentos-para-uma-carreira-em-tecnologia-sustentavel-por-microsoft-e-linkedin?originalSubdomain=br"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" min-width="40px" max-width="40px" width="40px" align="center" alt="Green Software Development"></a> | Microsoft / Linkedin | Fundamentos para uma Carreira em Tecnologia Sustentável  | [Certificado](https://www.linkedin.com/learning/certificates/9e307f09d5dee49b49638c3409a488ebd9b80af3839f65a85f1f3f5e4371bfe5) |
+|:--------:|:---------:|:----------:|:-------------:|
+| [<img src="https://training.linuxfoundation.org/wp-content/uploads/2022/10/LFC131-Course-Badge-1-300x300.png" width="40px" alt="Green Software Development">](https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/) | The Linux Foundation / Green Software Foundation | Green Software Development | [Certificado](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/72040d23-7fee-4dc0-8113-584d3be85e66-francildo-soares-alves-19a2b882-dbd5-4ff0-b009-680d458d2b62-certificate.pdf) |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40px" alt="LinkedIn Learning">](https://www.linkedin.com/learning/paths/fundamentos-para-uma-carreira-em-tecnologia-sustentavel-por-microsoft-e-linkedin?originalSubdomain=br) | Microsoft / LinkedIn | Fundamentos para uma Carreira em Tecnologia Sustentável | [Certificado](https://www.linkedin.com/learning/certificates/9e307f09d5dee49b49638c3409a488ebd9b80af3839f65a85f1f3f5e4371bfe5) |
+
+</div>
 
 
 ![lineBar](https://github.com/francildoalves/francildoalves/blob/main/assets/img/barra_collor.png)
