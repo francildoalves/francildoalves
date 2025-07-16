@@ -89,6 +89,7 @@
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
 ![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
 ![Shell Script](https://img.shields.io/badge/ShellScript-000?style=for-the-badge&logo=shell)
+![RUAT](https://img.shields.io/badge/rust-000?style=for-the-badge&logo=rust)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=E94D5F)
@@ -103,6 +104,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-000?style=for-the-badge&logo=openai)
 ![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
 ![Flet](https://img.shields.io/badge/flet-000?style=for-the-badge&logo=flet)
+![Gemini](https://img.shields.io/badge/gemini-000?style=for-the-badge&logo=gemini)
 
 
 ![lineBar](https://github.com/francildoalves/francildoalves/blob/main/assets/img/barra_collor.png)
