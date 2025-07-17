@@ -80,6 +80,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" /> Segurança da Informação
 - 🔬 Biomimética
 - 🌍 Sustentabilidade
+- ⚛️ Spintrônica
 
 ---
 
