@@ -157,9 +157,9 @@
 	<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
 	</a>
 	<a href="https://www.linkedin.com/in/francildoalves"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-	<a href="https://www.dio.me/users/francildo"><img width="40px" src="./assets/icons/favicon.ico" alt="DIO"></a></p> 
-	<a href="https://app.rocketseat.com.br/me/francildoalves"><img width="40px" src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" alt="rocketseat"></a></p>  
-<!-- <a href="https://www.youtube.com/@francildoalves/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p> -->
+	<a href="https://www.dio.me/users/francildo"><img width="40px" src="./assets/icons/favicon.ico" alt="DIO"></a>
+	<a href="https://app.rocketseat.com.br/me/francildoalves"><img width="40px" src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" alt="Rocketseat"></a>
+      	<!-- <a href="https://www.youtube.com/@francildoalves/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p> -->
 </div>
 
 ---
