@@ -132,8 +132,8 @@
 
 | Badge | Formação | Certificado | Status |
 | :---: | :------- | :--------: | :------: |
-| <a href="https://www.dio.me/courses/green-software"><img src="https://hermes.dio.me/courses/badge/7c0ee9f1-41d4-4215-8eeb-a651c4d71bf8.png" width="40px" height="40px" alt="Green Software Development"></a> | Green Software Development | [Certificado](https://www.dio.me/certificate/0XTYG8WF/share) | Done |
-| <a href="https://www.dio.me/curso-linux"><img src="https://hermes.dio.me/tracks/d33ee9c3-8a34-4913-8bfa-d21bdc2109b0.png" width="40px" height="40px" alt="Formação Linux Fundamentals"></a> | Formação Linux Fundamentals | [Certificado](https://www.dio.me/certificate/VIZEPQXG/share) | Done |
+| <a href="https://www.dio.me/courses/green-software"><img src="https://hermes.dio.me/courses/badge/7c0ee9f1-41d4-4215-8eeb-a651c4d71bf8.png" width="40px" height="40px" alt="Green Software Development"></a> | Green Software Development | [Certificado](https://www.dio.me/certificate/0XTYG8WF/share) | ✅ |
+| <a href="https://www.dio.me/curso-linux"><img src="https://hermes.dio.me/tracks/d33ee9c3-8a34-4913-8bfa-d21bdc2109b0.png" width="40px" height="40px" alt="Formação Linux Fundamentals"></a> | Formação Linux Fundamentals | [Certificado](https://www.dio.me/certificate/VIZEPQXG/share) | ✅ |
 | <a href="https://www.dio.me/curso-github-certification"><img src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png" width="40px" height="40px" alt="Formação GitHub Certification"></a> | Formação GitHub Certification | Certificado | In Progress |
 | <a href="https://www.dio.me/curso-devops"><img src="https://hermes.dio.me/tracks/03853221-b441-433e-959b-68cb30c67e88.png" width="40px" height="40px" alt="Formação DevOps Fundamentals"></a> | Formação DevOps Fundamentals | Certificado | To Do |
 | <a href="https://www.dio.me/curso-docker"><img src="https://hermes.dio.me/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" width="40px" height="40px" alt="Formação Docker Fundamentals"></a> | Formação Docker Fundamentals | Certificado | To Do |
