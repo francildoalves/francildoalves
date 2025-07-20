@@ -190,6 +190,10 @@
 
 
 <!-- Cobrinha -->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/francildoalves/platane/output/github-contribution-grid-snake.svg)
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake-dark.svg">
