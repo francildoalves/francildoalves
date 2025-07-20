@@ -63,7 +63,7 @@
 <!-- Stak -->
 ## &nbsp;Minha Stack
 <!-- Badges da stak -->
-<img src="https://skillicons.dev/icons?i=linux,docker,vscode,html,css,js,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,linux,docker,vscode,git,github&theme=dark" />
 
 #
 
