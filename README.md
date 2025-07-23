@@ -102,6 +102,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes)
 ![NGINX](https://img.shields.io/badge/nginx-000?style=for-the-badge&logo=nginx)
 ![redis](https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis)
+![redis](https://img.shields.io/badge/traefik-000?style=for-the-badge&logo=traefik)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-000?style=for-the-badge&logo=openai)
 ![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
 ![Flet](https://img.shields.io/badge/flet-000?style=for-the-badge&logo=flet)
