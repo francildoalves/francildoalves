@@ -80,8 +80,8 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" /> Segurança da Informação
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Microscope.png" alt="Bar Chart" width="25" height="25" /> Biomimética
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Bar Chart" width="25" height="25" /> Sustentabilidade
-- ⚛️ Spintrônica
 - 🍩 Economia Donut
+- ⚛️ Spintrônica
   
 ---
 
