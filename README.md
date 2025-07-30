@@ -81,6 +81,7 @@
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Microscope.png" alt="Bar Chart" width="25" height="25" /> Biomimética
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Bar Chart" width="25" height="25" /> Sustentabilidade
 - ⚛️ Spintrônica
+- 🍩 Economia Donut
   
 ---
 
