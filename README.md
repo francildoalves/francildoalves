@@ -125,9 +125,11 @@
 </div>
 
 
+<!-- código comentado
+
 ![lineBar](https://github.com/francildoalves/francildoalves/blob/main/assets/img/barra_collor.png)
 
-<!-- código comentado
+
 
 ## 📖 Plano de Estudos
 
@@ -165,7 +167,9 @@
       	<!-- <a href="https://www.youtube.com/@francildoalves/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p> -->
 </div>
 
----
+
+![lineBar](https://github.com/francildoalves/francildoalves/blob/main/assets/img/barra_collor.png)
+
 
 <details align="left">
   <summary>🙌 Créditos</summary> 
