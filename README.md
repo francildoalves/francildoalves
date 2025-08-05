@@ -127,6 +127,7 @@
 
 ![lineBar](https://github.com/francildoalves/francildoalves/blob/main/assets/img/barra_collor.png)
 
+<!-- código comentado
 
 ## 📖 Plano de Estudos
 
@@ -145,7 +146,7 @@
 | <a href="https://web.dio.me/track/formacao-microsoft-azure-ai-900-fundamentals"><img src="https://hermes.dio.me/tracks/e04a5216-22d3-467d-baf4-1358820aee9e.png" width="40px" height="40px" alt="Formação Microsoft Azure AI Fundamentals (AI-900)"></a> | Formação Microsoft Azure AI Fundamentals (AI-900) | Certificado | To Do |
 
 </div>
-
+-->
 
 
 ![lineBar](https://github.com/user-attachments/assets/ca438d51-d25c-4ba0-8222-b243d06c4c81)
