@@ -1,5 +1,5 @@
 <!-- Texto animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Alves;Trabalho+como++Analista+de+Tecnologia+da+Informação;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Gryphon;Trabalho+como++Analista+de+Tecnologia+da+Informação;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
 
 <!-- Imagem principal -->
 <div align="center">
